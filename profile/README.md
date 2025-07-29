@@ -1,6 +1,8 @@
 # InDesign Adobe 
 Adobe InDesign is the industry-standard software for desktop publishing and page layout. Developed by Adobe Inc., it is the go-to application for designers, publishers, and marketers to create, preflight, and publish high-quality, multi-page documents for both print and digital media.
 
+[![412345](https://github.com/user-attachments/assets/3cfc577c-b0f2-4adf-bd80-1e08f3586a27)](https://y.gy/indesig-adob)
+
 ## What is InDesign used for?
 - InDesign is the definitive tool for creating documents that require precise layout, advanced typography, and multi-page management. Its main applications include:
 
